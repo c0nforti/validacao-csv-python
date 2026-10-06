@@ -96,5 +96,7 @@ Também foi possível aplicar os algoritmos de validação de CPF e Luhn em um p
 ---
 
 **Disciplina:** ES453 — Introdução a Python
+
 **Instituição:** Universidade Federal de Pernambuco (UFPE)
+
 **Semestre:** 2026.2
